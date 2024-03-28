@@ -1,0 +1,42 @@
+{
+  "name": "mui-editable-data-grid-tab-stops-after-custom-text-input",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.9.3",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/base": "^5.0.0-alpha.134",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "^5.0.0-alpha.122",
+    "@mui/material": "^5.11.12",
+    "@mui/x-data-grid-generator": "^6.9.1",
+    "@mui/x-data-grid-premium": "^6.9.1",
+    "@mui/x-data-grid-pro": "^6.9.1",
+    "@mui/x-date-pickers": "^6.9.1",
+    "@mui/x-date-pickers-pro": "^6.9.1",
+    "@mui/x-license-pro": "^6.9.0",
+    "axios": "^1.2.1",
+    "babel-preset-env": "^1.7.0",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
